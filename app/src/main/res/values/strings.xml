@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="title_activity_high_scores">HighScores</string>
+</resources>
